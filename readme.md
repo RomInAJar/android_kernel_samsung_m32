@@ -3,7 +3,7 @@
 
 Kernel source for the Samsung Galaxy M32 4G MediaTek
 
-This kernel compatible with TWRP 3.6.11 & OneUI 3.1 as of 30/04/2022
+This kernel compatible with TWRP ~~3.6.11 & OneUI 3.1 as of 30/04/2022~~ [Update In Progress]
 
 ---
 ![Samsung Galaxy M32 4G](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m32-1.jpg)
@@ -42,7 +42,8 @@ Front Camera | 20 MP, f/2.2, (wide)
  `./build_kernel.sh`
 
 ### Thanks to:
- * Me, akhil1999
+ * Me
+ * akhil1999
  * Samsung for complying to GPL OpenSource!
 
 
